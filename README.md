@@ -3,14 +3,14 @@
 
    <p align="center">
 
-<a href="#"><img title="Jimbrootan🧞‍♂️" src="https://img.shields.io/badge/Jimbrootan%F0%9F%A7%9E%E2%80%8D%E2%99%82%EF%B8%8F-blueviolet?&style=for-the-badge"></a>
+<a href="#"><img title="Minnumwol🦋" src="https://img.shields.io/badge/minnumwol%F0%9F%A7%9E%E2%80%8D%E2%99%82%EF%B8%8F-blueviolet?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Mikhaiel"><img title="Author" src="https://img.shields.io/badge/Author-Mikhaiel-Offical/Jimbrootan?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Mikhaiel"><img title="Author" src="https://img.shields.io/badge/Author-SHERLOCK-Offical/Minnumwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-  Project created by <a href="https://github.com/Mikhaiel">Mikhaiel</a> to make it public
+  Project created by <a href="https://github.com/sherlock-97">Sherlock-97</a> to make it public
     <br>
        © Reserved 
     <br>
@@ -19,7 +19,7 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Mikhaiel/Jinnh-">
+  <a href="httsp://github.com/sherlock-97/MinnuMwol-">
     <img src="https://img.shields.io/github/repo-size/Mikhaiel/Jinnh?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Mikhaiel/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mikhaiel?color=blue&style=flat-square"></a>
