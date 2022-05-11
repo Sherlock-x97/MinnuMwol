@@ -45,14 +45,14 @@ Click WA logo for Support 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Mikhaiel/Jimbrootan)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SHERLOCKX97/MinnuMwol?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/realmikhaiel/Jinnh-)
      </div>
 <br>
 <br >
 
-## Jimbroottan Version 3 Qr ⬇️
+## OTHER OR OF MINNU MWOL
 
 <div align="center">
 
