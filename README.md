@@ -1,0 +1,2 @@
+# MinnuMwol
+WHATSAPP BGM BOT 
