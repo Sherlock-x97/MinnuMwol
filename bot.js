@@ -1,9 +1,9 @@
-/* Copyright (C) 2020 MIKHAIEL.
+/* Copyright (C) 2020 SHERLOCK.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - jimbrootan
+WhatsAsena - MinnuMwol
 */
 
 const fs = require("fs");
@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Jimbrootan working! 🧞‍')
+            chalk.green.bold('MinnuMwol working! 🧞‍')
         );
     });
     
@@ -261,7 +261,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'TR' || config.LANG == 'AZ') {
-                                await conn.sendMessage(conn.user.jid, '-- HATA RAPORU [```Jimbrootan V-2.0```] --' + 
+                                await conn.sendMessage(conn.user.jid, '-- HATA RAPORU [```MinnuMwol```] --' + 
                                     '\n*WhatsAsena bir hata gerçekleşti!*'+
                                     '\n_Bu hata logunda numaranız veya karşı bir tarafın numarası olabilir. Lütfen buna dikkat edin!_' +
                                     '\n_Yardım için Telegram grubumuza yazabilirsiniz._' +
@@ -269,7 +269,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '🧞‍♂️______```Jimbrootan V-2.0```_____🧞‍' +
+                                await conn.sendMessage(conn.user.jid, '🧞‍♂️______```MinnuMwol```_____🧞‍' +
                                     '\n\n*🧞‍ ' + error + '*\n'
                                     , MessageType.text);
                             }
