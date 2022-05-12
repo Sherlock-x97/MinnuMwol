@@ -69,7 +69,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply MinnuMwol to identify)",
             "required": false,
-            "value": "MinnuMwol 🦋"
+            "value": "MinnuMwol"
         },
         "DEP_NAME": {
             "description": "bot deployer name make it short  (for auto reply jimbroootan to identify)",
@@ -109,7 +109,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━ MinnuMwol 🦋 ━━━•"
+            "value": "•━━━━ MinnuMwol ━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Heroku API Key.",
