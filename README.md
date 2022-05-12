@@ -47,7 +47,7 @@ Click WA logo for Support 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@SHERLOCKX97/MinnuMwol?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sherlock-x97/MinnuMwol-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sherlock-x97/MinnuMwol)
      </div>
 <br>
 <br >
