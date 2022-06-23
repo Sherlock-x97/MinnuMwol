@@ -1,6 +1,6 @@
 {
     "name": "anumol ☑️",
-    "description": "MinnuMwol - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "description": "Anumol - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/72667834?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/sulthan/MinnuMwol",
@@ -62,17 +62,17 @@
             "value": "^[.!;]"
         },
         "Minnu_AI": {
-            "description": "turn on chat back auto reply MinnuMwol (use true to on and fale to off)",
+            "description": "turn on chat back auto reply Anumol (use true to on and fale to off)",
             "required": true,
             "value": "true"
         },
         "BOT_NAME": {
-            "description": "give a name you disire to give your bot (for auto reply MinnuMwol to identify)",
+            "description": "give a name you disire to give your bot (for auto reply Anumol to identify)",
             "required": false,
             "value": "ANU MOL"
         },
         "DEP_NAME": {
-            "description": "bot deployer name make it short  (for auto reply jimbroootan to identify)",
+            "description": "bot deployer name make it short  (for auto reply sulthan mods to identify)",
             "required": false,
             "value": "Sulthan"
         },
