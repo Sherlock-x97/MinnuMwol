@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 SHERLOCK.
+/* Copyright (C) 2020 SULTHAN.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -12,7 +12,7 @@ const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./jimbru/');
+const {Message, StringSession, Image, Video} = require('./Sulthan/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const got = require('got');
